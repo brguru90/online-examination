@@ -1,0 +1,5 @@
+result pass fauil first second etc depending on percentage for correct*100/all quetions
+how many correct,not attended,how much time taken(not mendetory)
+time for exam both client and server side
+within time period and session posibility to refresh page and try to keep already selected by updating them to session using ajax
+date of exam
